@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.exe
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.deps.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.runtimeconfig.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.genruntimeconfig.cache
